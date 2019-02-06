@@ -5,6 +5,10 @@
  * 2017/2018
  *
  * (c) 2018 Arturo Gonzalez Escribano
+ *
+ * Modificaciones por:
+ * Luis Blanco de la Cruz
+ * Rubén González Ruiz
  */
 #include<stdio.h>
 #include<stdlib.h>
