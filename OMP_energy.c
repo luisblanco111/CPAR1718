@@ -6,6 +6,10 @@
  *
  * (c) 2018 Arturo Gonzalez Escribano
  * Version: 2.0 (Atenuacion no lineal)
+ *
+ * Modificaciones por:
+ * Luis Blanco de la Cruz
+ * Rubén González Ruiz
  */
 #include<stdio.h>
 #include<stdlib.h>
